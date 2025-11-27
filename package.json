@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"@faker-js/faker": "^10.1.0",
+		"@supabase/supabase-js": "^2.86.0"
+	}
+}
