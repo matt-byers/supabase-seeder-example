@@ -134,3 +134,7 @@ const NUM_AGENT_RUNS = 2000;
 ├── SCHEMA.md             # Schema documentation
 └── README.md             # You are here
 ```
+
+## Credits
+
+Based on [devinschumacher's Supabase seeding gist](https://gist.github.com/devinschumacher/5fb66aebc4bacb2ca8746f57cd0ab0ce).
